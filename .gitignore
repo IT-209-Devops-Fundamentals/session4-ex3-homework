@@ -1,0 +1,10 @@
+!.gitignore
+!README.md
+!app.js
+!*.png
+!*.jpg
+id_ed25519*
+*.key
+*.pem
+.env
+*.tmp
